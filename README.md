@@ -1,6 +1,6 @@
 # E73-2G4M04S-BREADBOARD
 
-Breadboard adapter for EBYTE NRF52832 module
+Breadboard adapter for [EBYTE NRF52832](http://ali.pub/2z6fva) module
 
 ![alt text](https://raw.githubusercontent.com/KooLru/E73-2G4M04S-BREADBOARD/Images/20181222_213709.jpg)
 
@@ -27,9 +27,9 @@ Breadboard adapter for EBYTE NRF52832 module
 
 [3x6x3.5](https://l.kool.ru/obw9w) switch
 
-L1 inductor
+L1 0805 SMD 15nH inductor [AliExpress](https://l.kool.ru/m-3i2)
 
-L2 inductor
+L2 0805 SMD 10uH inductor [AliExpress](https://l.kool.ru/w-op5)
 
 C1 capacitor
 
